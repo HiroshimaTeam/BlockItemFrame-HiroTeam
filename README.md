@@ -6,6 +6,7 @@ Block Item Frame Plugin | Plugin qui permet de bloquer les cadres
 #██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
 #██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
 #╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+
 FRA: Permet de bloquer les cadres
 
 ENG: Allows you to block items frames
