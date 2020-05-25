@@ -1,5 +1,5 @@
 # BlockItemFrame-HiroTeam
-Block Item Frame Plugin | Plugin qui permet de bloquer les cadres
+WorldGuard Extension: Block Item Frame Plugin | Plugin qui permet de bloquer les cadres
 #██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗
 #██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║
 #███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║
@@ -7,6 +7,6 @@ Block Item Frame Plugin | Plugin qui permet de bloquer les cadres
 #██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
 #╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
 
-FRA: Permet de bloquer les cadres parce que WorldGuard ne le permet pas
+FRA: Permet de bloquer les cadres dans les zones parce que WorldGuard ne le permet pas
 
-ENG: Allows you to block items frames because WorldGuard does not allow it
+ENG: Allows you to block items frames in areas because WorldGuard does not allow it
