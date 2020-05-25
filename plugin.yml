@@ -1,0 +1,9 @@
+name: BlockItemFrame
+author: HiroTeam
+version: 1.0.0
+api: 3.0.0
+main: blockitemframe\Main
+description: Block Item Frame
+permissions:
+  itemframe:
+    default: op
