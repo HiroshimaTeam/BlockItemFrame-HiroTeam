@@ -4,6 +4,7 @@ version: 2.0.0
 api: 3.0.0
 main: blockitemframe\Main
 description: WorldGuard extension to block items frames
+depend: [WorldGuard]
 permissions:
   itemframe:
     default: op
