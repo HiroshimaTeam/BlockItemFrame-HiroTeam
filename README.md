@@ -38,7 +38,3 @@ HiroshimaTeam/Exchange-HiroTeam is licensed under the
 ---
 ### Author
 - **Discord:** WillyDuGang#6947
-
-Hiroshima Pvp Faction: https://www.discord.io/HiroshimaMcPe 
-
-HiroTeam discord: https://discord.gg/WuwsuUA
