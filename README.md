@@ -27,13 +27,8 @@ WorldGuard Extension: Block Item Frame Plugin | Plugin qui permet de bloquer les
 - **E-mail:** team.hiroshima.dev@gmail.com<br/>
 - **Our PocketMine Server** :link:  https://hirovote.eu<br/>
 
-> ![HiroTeam](https://zupimages.net/up/20/24/m7ym.png) </br>
-> ██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗</br>
-> ██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║</br>
-> ███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║</br>
-> ██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║</br>
-> ██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║</br>
-> ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+> ![HiroTeam](https://www.zupimages.net/up/20/25/mb59.png) </br>
+> ![HiroTeam](https://cdn.discordapp.com/attachments/701520774598492220/723269120992215080/PicsArt_06-18-10.13.13.png)
 ---
 ### License
 HiroshimaTeam/Exchange-HiroTeam is licensed under the
